@@ -1,0 +1,22 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngwjung/express-hello-world.git"
+  },
+  "author": "Youngwoo Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngwjung/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/youngwjung/express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
