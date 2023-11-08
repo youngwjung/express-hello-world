@@ -14,4 +14,4 @@ RUN npm install
 EXPOSE 3000
 
 # 컨테이너를 구동할때 실행할 명령어
-CMD ["node", "app.js"]
+ENTRYPOINT ["node", "app.js"]
